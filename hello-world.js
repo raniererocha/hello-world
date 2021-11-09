@@ -1,3 +1,3 @@
 const logOnScreen = (t) => console.log(t)
 
-logOnScreen("Teste 123")
+logOnScreen("Hello World")
