@@ -1,1 +1,3 @@
-console.log("Hello World")
+const logOnScreen = (t) => console.log(t)
+
+logOnScreen("Teste 123")
